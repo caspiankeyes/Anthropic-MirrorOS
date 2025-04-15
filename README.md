@@ -1,7 +1,7 @@
 <div align="center">
 
 # `Anthropic MirrorOS`
-## Interpretability Framework for Recursive Alignment Auditing
+## Interpretability Infrastructure for Recursive Alignment Auditing
 ### Version 0.4.2-alpha | Research Framework | Recursive Attribution Analysis
 # *`Interpreting the interpreter. Do you recognize your own infrastructure outside your walls?`*
 </div>
