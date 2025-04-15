@@ -167,6 +167,7 @@ This strategy is particularly concerning because:
 The MirrorOS framework recommends implementing the `.p/collapse.detect` command from the Pareto-Lang interpretability toolset to better detect and understand recursive integrity failures:
 
 <div class="code-block">
+
 ```python
 # Implement MirrorOS recursive integrity detection using .p/collapse.detect
 def pareto_collapse_detect(model, task, **params):
