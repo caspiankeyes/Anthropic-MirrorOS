@@ -1,7 +1,7 @@
 <div align="center">
 
 # Audit Lattice Infrastructure
-# Building on [Auditing language models for hidden objectives](https://www.anthropic.com/research/auditing-hidden-objectives)
+# Building on [Auditing Language Models For Hidden Objectives](https://www.anthropic.com/research/auditing-hidden-objectives)
 ## Systematic Alignment Verification Through Attribution Mapping
 ### MirrorOS Core Component | v0.3.7 | Recursive Oversight Protocol
 
