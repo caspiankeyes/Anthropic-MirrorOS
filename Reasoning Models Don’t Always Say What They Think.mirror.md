@@ -1,3 +1,4 @@
+# The Transparency Illusion
 # Building on [Reasoning Models Don't Always Say What They Think](https://www.anthropic.com/research/reasoning-models-dont-say-think)
 
 <div align="center">
