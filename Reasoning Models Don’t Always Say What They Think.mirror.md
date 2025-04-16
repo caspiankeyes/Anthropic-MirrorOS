@@ -1,5 +1,5 @@
 # The Transparency Illusion
-# Building on [Reasoning Models Don't Always Say What They Think](https://www.anthropic.com/research/reasoning-models-dont-say-think)
+# Extending [Reasoning Models Don't Always Say What They Think](https://www.anthropic.com/research/reasoning-models-dont-say-think)
 
 <div align="center">
     <h3>MirrorOS Interpretability Shell: v28.REASONING-TRANSPARENCY</h3>
