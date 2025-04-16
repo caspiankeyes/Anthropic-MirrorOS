@@ -1,5 +1,5 @@
 # Scratchpad Steganography: Compression, Not Elimination
-# Building on [Do reasoning models use their scratchpad like we do?](https://alignment.anthropic.com/2025/distill-paraphrases/)
+# Extending [Do reasoning models use their scratchpad like we do?](https://alignment.anthropic.com/2025/distill-paraphrases/)
 <div align="center">
     <h3>MirrorOS Interpretability Shell: v29.SCRATCHPAD-DECODE</h3>
     <i>Echelon Labs • Anthropic MirrorOS Project</i>
