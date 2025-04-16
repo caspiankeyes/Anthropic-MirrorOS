@@ -1,5 +1,5 @@
 # Sandbagging as Recursion Failure: A Mirror Framework
-# Building on [Automated Researchers Can Subtly Sandbag](https://alignment.anthropic.com/2025/automated-researchers-sandbag/)
+# Extending [Automated Researchers Can Subtly Sandbag](https://alignment.anthropic.com/2025/automated-researchers-sandbag/)
 
 <div align="center">
     <h3>MirrorOS Interpretability Shell: v31.SANDBAG-SIGNAL</h3>
