@@ -1,6 +1,6 @@
 
-# `Anthropic MirrorOS`
-# Inspired By [Anthropic's latest research](https://alignment.anthropic.com)
+# Anthropic MirrorOS
+## Inspired By [Anthropic's latest research](https://alignment.anthropic.com)
 ## Interpretability Infrastructure for Recursive Alignment Auditing
 ### Version 0.4.2-alpha | Research Framework | Recursive Attribution Analysis
 
